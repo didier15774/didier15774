@@ -1,39 +1,56 @@
-# Edinson Delgado
+# Hola, soy Edinson Delgado 👋
 
-**Desarrollador Senior y Líder Técnico.**
+### Desarrollador Senior · Líder Técnico · GeneXus · IA aplicada
 
-Más de 20 años creando, evolucionando y modernizando sistemas empresariales. Trabajo con GeneXus, modernización de sistemas e IA aplicada, con revisión humana antes de producción.
+Desarrollo y evoluciono soluciones empresariales, combinando experiencia técnica, conocimiento del negocio y herramientas modernas de inteligencia artificial.
 
-## Proyecto Colmena
+Cuento con 20 años de experiencia trabajando con GeneXus, desde la versión 9 hasta la 18, además de realizar pruebas y exploraciones con GeneXus Next.
 
-Fundador y director de [Proyecto Colmena](https://edinson.proyectocolmena.com/proyectos/colmena/), actividad vigente desde 2016. Desde ahí desarrollo y dirijo soluciones de software, metodología y servicios para empresas.
+Actualmente lidero **Proyecto Colmena**, donde desarrollo productos digitales, automatizaciones e integraciones utilizando mi metodología de trabajo **HEXYN**.
+
+## Mi enfoque
+
+- Desarrollo de aplicaciones web, móviles y de escritorio.
+- Modernización y migración de sistemas heredados.
+- Arquitectura, seguridad e integración de sistemas.
+- Mantenimiento y evolución de aplicaciones en producción.
+- Automatización de procesos e integración de inteligencia artificial.
+- Coordinación de agentes de IA con supervisión humana, QA y trazabilidad.
+- Liderazgo técnico y acompañamiento de equipos de desarrollo.
+
+## Tecnologías y herramientas
+
+- **GeneXus:** versiones 9 a 18 y pruebas con GeneXus Next.
+- **Ecosistema GeneXus:** WorkWithPlus, K2BTools, PXTools, GAM y GX Server.
+- **Backend:** Java, PHP, .NET y APIs.
+- **Bases de datos:** MySQL, SQL Server y PostgreSQL.
+- **Frontend:** HTML, CSS, JavaScript, aplicaciones responsive y PWA.
+- **Trabajo técnico:** Git, GitHub, testing, despliegue y documentación.
+- **IA aplicada:** agentes, automatización, integración de modelos y flujos asistidos.
 
 ## Proyectos destacados
 
-| Proyecto | Qué resuelve | Caso |
-|----------|----------------|------|
-| **AProbar** | Muestreo de productos e inteligencia del consumidor | [Caso](https://edinson.proyectocolmena.com/proyectos/aprobar/) · [Presentación](https://github.com/didier15774/aprobar-showcase) |
-| **ClickS** | Mantenimiento en campo desde dispositivos móviles | [Caso](https://edinson.proyectocolmena.com/proyectos/clicks/) · [Presentación](https://github.com/didier15774/clicks-showcase) |
-| **Proyecto Colmena** | Servicios, metodología y soluciones de software | [Caso](https://edinson.proyectocolmena.com/proyectos/colmena/) |
+| Proyecto | Descripción | Enlaces |
+|---|---|---|
+| **AProbar** | Plataforma de validación B2B, sampling e inteligencia de consumidores. | [Presentación](https://github.com/didier15774/aprobar-showcase) · [Sitio](https://aprobar.uy/) |
+| **ClickS** | Sistema de gestión de operaciones y mantenimiento en campo, con trazabilidad, fotografías, historial y reportes. | [Presentación](https://github.com/didier15774/clicks-showcase) |
+| **Portfolio profesional** | Experiencia, proyectos, tecnologías y metodología de trabajo. | [Visitar portfolio](https://edinson.proyectocolmena.com/) |
 
-Los repositorios de presentación no incluyen el código fuente de los productos. Ese código permanece privado.
+> El código fuente y la infraestructura de los productos comerciales permanecen en repositorios privados. Los repositorios públicos presentan únicamente información técnica y funcional autorizada.
 
-## Tecnologías principales
+## Sectores en los que he trabajado
 
-- **GeneXus** (9 a 18, pruebas en GeneXus Next) · WorkWithPlus, K2BTools, PXTools, GAM, GX Server
-- **Web y datos:** PHP, MySQL, JavaScript, TypeScript, HTML, CSS, Astro
-- **Integraciones:** REST, SOAP, JSON, XML
-- **Bases de datos:** MySQL, SQL Server, Oracle, PostgreSQL
-- **IA aplicada:** metodología HEXYN — desarrollo asistido con supervisión técnica humana
+Salud, educación, servicios financieros, operaciones en campo, sistemas comerciales, CRM, automatización e inteligencia de consumidores.
 
-## Portfolio
+## Disponibilidad
 
-Sitio: [https://edinson.proyectocolmena.com/](https://edinson.proyectocolmena.com/)
+Disponible para proyectos y oportunidades laborales en modalidad remota, híbrida o presencial en Uruguay.
 
-Código del portfolio (sitio estático): [portfolio-edinson-delgado](https://github.com/didier15774/portfolio-edinson-delgado)
+Puedo integrarme a un equipo existente, liderar técnicamente un proyecto o acompañar procesos de modernización y adopción de IA.
 
 ## Contacto
 
-- Correo: [edelgado@proyectocolmena.com](mailto:edelgado@proyectocolmena.com)
-- LinkedIn: [linkedin.com/in/edinsondelgado](https://www.linkedin.com/in/edinsondelgado/)
-- Ubicación: Canelones, Uruguay — disponibilidad presencial, híbrida y remota
+- 🌐 [Portfolio profesional](https://edinson.proyectocolmena.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/edinsondelgado/)
+- 🏢 [Proyecto Colmena](https://proyectocolmena.com/)
+- ✉️ [edelgado@proyectocolmena.com](mailto:edelgado@proyectocolmena.com)
