@@ -34,6 +34,7 @@ Actualmente lidero **Proyecto Colmena**, donde desarrollo productos digitales, a
 |---|---|---|
 | **AProbar** | Plataforma de validación B2B, sampling e inteligencia de consumidores. | [Presentación](https://github.com/didier15774/aprobar-showcase) · [Sitio](https://aprobar.uy/) |
 | **ClickS** | Sistema de gestión de operaciones y mantenimiento en campo, con trazabilidad, fotografías, historial y reportes. | [Presentación](https://github.com/didier15774/clicks-showcase) |
+| **TradingBotIA** | Beta temprana: análisis de mercados spot cripto, backtesting, gestión de riesgo y paper trading con fondos simulados (consola KAIROS). Código y estrategias privados. | [Presentación](https://github.com/didier15774/TradingBotIA-showcase) |
 | **Argos — Robótica, visión artificial y automatización** | Prototipo funcional en evolución: hexápodo sobre hardware real, con Raspberry Pi, cámara, sensores y 18 servomotores. Combina Python, control remoto y experimentación con visión artificial, con una hoja de ruta hacia reconocimiento, automatización e integración con Home Assistant. | [Ver presentación de Argos](https://github.com/didier15774/argos-showcase) |
 | **Portfolio profesional** | Experiencia, proyectos, tecnologías y metodología de trabajo. | [Visitar portfolio](https://edinson.proyectocolmena.com/) |
 
